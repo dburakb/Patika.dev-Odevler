@@ -1,2 +1,2 @@
-# Not-Ortalamas-Hesaplama-Java---
+# Patika Ödevleri
 patika.dev desteği ile...
