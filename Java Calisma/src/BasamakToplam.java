@@ -9,7 +9,7 @@ public class BasamakToplam {
         System.out.print("\nSayıyı giriniz: ");
         a = input.nextInt();
 
-        while (a > 0) {
+        while (a != 0) {
             b = (a % 10) + b;
             a /= 10;
         }
